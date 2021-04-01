@@ -1,0 +1,4 @@
+## Title: Wiki Links
+## APIVersion: 100034
+
+WikiLinks.lua
